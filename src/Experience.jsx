@@ -2,7 +2,7 @@ import { OrbitControls, Sky } from '@react-three/drei'
 import { Perf } from 'r3f-perf'
 import Wall from './Wall'
 import Floor from './Floor'
-import Myvideo from './Myvideo'
+//import Myvideo from './Myvideo'
 
 export default function Experience() {
     return <>
